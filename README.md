@@ -28,10 +28,12 @@ The data for the windrose plot comes from a **JSON file**. This file must adhere
       "time": "HH:MM AM/PM (PST)",
       "data": [
         {
+          "z_hPa": value,
           "speed_kph": value,
           "direction": "N/E/S/W/etc"
         },
         {
+          "z_hPa": value,
           "speed_kph": value,
           "direction": "N/E/S/W/etc"
         },
