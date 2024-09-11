@@ -16,9 +16,6 @@ When using the GUI, just run the executable file provided by the link above. Whe
 
 ## **Windrose Plot Generator - Instruction Guide**
 
-### **Overview**
-The Windrose Plot Generator visualizes wind data (such as wind speed and direction) in a circular (polar) plot, commonly known as a **Windrose Diagram**. This is useful in meteorological studies to display how wind speed varies with direction at different heights. Each wind direction (e.g., North, East, etc.) has associated wind speed measurements plotted radially from the center.
-
 ### **Input Data Format**
 The data for the windrose plot comes from a **JSON file**. This file must adhere to a specific structure to ensure correct parsing and plotting. The JSON structure should look like this:
 
@@ -26,8 +23,8 @@ The data for the windrose plot comes from a **JSON file**. This file must adhere
 {
   "windrose": [
     {
-      "date": "YYYY-MM-DD",
-      "time": "HH:MM",
+      "date": "Month DD, YYYY",
+      "time": "HH:MM AM/PM (PST)",
       "data": [
         {
           "speed_kph": value,
