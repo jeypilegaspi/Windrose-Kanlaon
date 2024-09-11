@@ -1,0 +1,531 @@
+{
+    "windrose": [
+        {
+            "date": "June 03, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 9.33708,
+                "direction": "SSW"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 4.03105,
+                "direction": "N"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 9.5527,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 9.50551,
+                "direction": "NW"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 20.7411,
+                "direction": "NNW"
+              }
+            ]
+          },
+          {
+            "date": "June 04, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 1.35722,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 8.17778,
+                "direction": "NNE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 7.77029,
+                "direction": "NNE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 9.73587,
+                "direction": "WSW"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 17.377,
+                "direction": "SW"
+              }
+            ]
+          },
+          {
+            "date": "June 05, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 3.63047,
+                "direction": "S"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 5.67039,
+                "direction": "NE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 13.6245,
+                "direction": "NE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 7.28224,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 59.6264,
+                "direction": "ENE"
+              }
+            ]
+          },
+          {
+            "date": "June 06, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 5.46834,
+                "direction": "S"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 3.129,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 8.75154,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 24.5085,
+                "direction": "NE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 33.5443,
+                "direction": "NNE"
+              }
+            ]
+          },
+          {
+            "date": "June 07, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 15.1833,
+                "direction": "SW"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 11.9398,
+                "direction": "SSW"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 13.9681,
+                "direction": "SE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 18.2681,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 29.2306,
+                "direction": "NE"
+              }
+            ]
+          },
+          {
+            "date": "June 08, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 9.64658,
+                "direction": "SSE"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 13.4811,
+                "direction": "SE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 12.2493,
+                "direction": "SE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 23.341,
+                "direction": "NE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 51.9888,
+                "direction": "NE"
+              }
+            ]
+          },
+          {
+            "date": "June 09, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 12.5028,
+                "direction": "SSE"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 14.6812,
+                "direction": "SE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 25.1703,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 17.0161,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 34.6562,
+                "direction": "NE"
+              }
+            ]
+          },
+          {
+            "date": "June 10, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 11.8499,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 11.336,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 22.006,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 15.8234,
+                "direction": "SE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 18.0936,
+                "direction": "SE"
+              }
+            ]
+          },
+          {
+            "date": "June 11, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 15.5077,
+                "direction": "NE"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 28.3305,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 34.4843,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 27.948,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 21.3385,
+                "direction": "ENE"
+              }
+            ]
+          },
+          {
+            "date": "June 12, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 8.713,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 20.3603,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 21.3316,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 24.0836,
+                "direction": "NE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 11.0117,
+                "direction": "E"
+              }
+            ]
+          },
+          {
+            "date": "June 13, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 7.99621,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 15.5672,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 20.5379,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 29.5748,
+                "direction": "SE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 19.6959,
+                "direction": "ESE"
+              }
+            ]
+          },
+          {
+            "date": "June 14, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 9.07176,
+                "direction": "SE"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 18.4113,
+                "direction": "SE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 40.0167,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 30.1719,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 21.2482,
+                "direction": "ENE"
+              }
+            ]
+          },
+          {
+            "date": "June 15, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 16.7255,
+                "direction": "SSW"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 15.5762,
+                "direction": "S"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 31.1648,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 26.6491,
+                "direction": "NE"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 45.272,
+                "direction": "ENE"
+              }
+            ]
+          },
+          {
+            "date": "June 16, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 1.55691,
+                "direction": "S"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 9.45068,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 26.7319,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 37.312,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 48.3539,
+                "direction": "E"
+              }
+            ]
+          },
+          {
+            "date": "June 17, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 2.847,
+                "direction": "NNE"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 18.1498,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 28.9922,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 36.7775,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 54.4901,
+                "direction": "ENE"
+              }
+            ]
+          },
+          {
+            "date": "June 18, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 4.97037,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 18.1548,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 15.8998,
+                "direction": "ESE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 31.8198,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 49.9837,
+                "direction": "E"
+              }
+            ]
+          },
+          {
+            "date": "June 19, 2024",
+            "time": "8:00 AM (PST)",
+            "data": [
+              {
+                "z_hPa": 850,
+                "speed_kph": 7.69483,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 700,
+                "speed_kph": 12.563,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 500,
+                "speed_kph": 26.3156,
+                "direction": "ENE"
+              },
+              {
+                "z_hPa": 300,
+                "speed_kph": 45.5712,
+                "direction": "E"
+              },
+              {
+                "z_hPa": 200,
+                "speed_kph": 51.6688,
+                "direction": "E"
+              }
+            ]
+          }   
+    ]
+}
