@@ -8,11 +8,11 @@ Please send a message to 09302455701 upon discovery of a bug or if you have any 
 When running the python scripts, some prerequisites must be installed on the system first:
  - Python 3.12
  - Jupyter Notebook (download through Anaconda Installer) or Google Colab(https://colab.research.google.com/)
- - matplotlib(download via command prompt/anaconda prompt by running 'pip install matplotlib')
- - numpy(download via command prompt/anaconda prompt by running 'pip install numpy')
+ - matplotlib(download via command prompt/anaconda prompt by running ```bash pip install matplotlib```)
+ - numpy(download via command prompt/anaconda prompt by running ```bash pip install numpy```)
 Tutorials on how to setup Jupyter Notebook on Anaconda virtual environment and installing packages is widely available online.
 
-When using the GUI, just run the executable file provided by the link above. When a windows defender prompted a warning, click 'more info' and select 'run anyway'.
+When using the GUI, just run the executable file provided by the link above. When a windows defender prompted a warning, click `more info` and select `run anyway`.
 
 ## **Windrose Plot Generator - Instruction Guide**
 
