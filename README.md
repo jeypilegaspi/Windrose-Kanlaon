@@ -10,6 +10,7 @@ When running the python scripts, some prerequisites must be installed on the sys
  - Jupyter Notebook (download through Anaconda Installer) or Google Colab(https://colab.research.google.com/)
  - matplotlib(download via command prompt/anaconda prompt by running ```pip install matplotlib```)
  - numpy(download via command prompt/anaconda prompt by running ```pip install numpy```)
+
 Tutorials on how to setup Jupyter Notebook on Anaconda virtual environment and installing packages is widely available online.
 
 When using the GUI, just run the executable file provided by the link above. When a windows defender prompted a warning, click `more info` and select `run anyway`.
