@@ -104,11 +104,5 @@ After plotting, the windrose is displayed with:
 - **Data Example**: Suppose the wind data is recorded at 5 altitudes (~1.5km, ~3km, ~5-6km, ~9km, ~12km) with wind speeds recorded at 5 directions (N, NE, E, SE, S).
 - **Visual Output**: The windrose will show a circular plot with bars extending at angles corresponding to the directions. Bars will be colored and proportional to wind speeds.
 
-
-### **Key Customization Options**
-- **Coloring**: The bars' colors can be customized for different wind speed layers.
-- **Bar Width**: Adjusting the angular width of each bar can give different visual effects (e.g., making bars wider or narrower).
-- **Legend**: You can customize the legend to better represent the altitudes or other metrics.
-
 ### **Use Cases**
 - **Tephra Deposite Analysis**: Understanding the impact of wind in distribution of volcanic ash and other volcanic materials ejected during an eruption..
