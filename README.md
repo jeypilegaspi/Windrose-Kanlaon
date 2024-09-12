@@ -1,5 +1,5 @@
 # Windrose-Kanlaon
-
+## **Windrose Plot Generator - Instruction Guide**
 This repository contains the python script for windrose generator created specifically for Kanlaon wind data along wind the json files that contains the wind data.
 The executable (EXE) file is downloadable on https://drive.google.com/file/d/1JUwU2cA8iPE1G_01fiEg4VJzdbaDBxyL/view?usp=drive_link
 
@@ -14,8 +14,6 @@ When running the python scripts, some prerequisites must be installed on the sys
 Tutorials on how to setup Jupyter Notebook on Anaconda virtual environment and installing packages is widely available online.
 
 When using the GUI, just run the executable file provided by the link above. When a windows defender prompted a warning, click `more info` and select `run anyway`.
-
-## **Windrose Plot Generator - Instruction Guide**
 
 ### **Input Data Format**
 The data for the windrose plot comes from a **JSON file**. This file must adhere to a specific structure to ensure correct parsing and plotting. The JSON structure should look like this:
