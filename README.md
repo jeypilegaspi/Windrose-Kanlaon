@@ -5,6 +5,7 @@ The executable (EXE) file is downloadable on https://drive.google.com/file/d/1JU
 
 Please send a message to 09302455701 on Viber upon discovery of a bug or if you have any suggestions.
 
+### **Prerequisites**
 When running the python scripts, some prerequisites must be installed on the system first:
  - Python 3.12
  - Jupyter Notebook (download through Anaconda Installer) or Google Colab(https://colab.research.google.com/)
